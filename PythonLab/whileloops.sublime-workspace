@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"parentElement"
+			],
+			[
+				"d",
+				"dData"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"ce",
+				"cell3"
+			],
+			[
+				"c",
+				"cell1"
+			],
+			[
+				"ta",
+				"tableData"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"data",
+				"dataList"
+			],
+			[
+				"in",
+				"insertCell"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"brder",
+				"border-collapse\tproperty"
+			],
+			[
+				"ex",
+				"experience"
+			],
+			[
+				"su",
+				"submits"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"SUMB",
+				"submits"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cla",
+				"clas"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"Re",
+				"required\tAttr"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"pro",
+				"profit"
+			],
+			[
+				"pr",
+				"profit"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"FON",
+				"font-family\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"st",
+				"script\tTag"
+			],
+			[
+				"q",
+				"questionForm"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"btn-g",
+				"btn-group-justified"
+			],
+			[
+				"bn",
+				"btn-success"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"j",
+				"Jumbotron"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vikash/Desktop/Test.html",
+		"/home/vikash/BitCoinCal/index.html",
+		"/home/vikash/BitCoinCal/script.js",
+		"/opt/lampp/htdocs/Ticket_Booking_System/index.php",
+		"/home/vikash/BitCoinCal/style.css",
+		"/opt/lampp/htdocs/Tasks/abc.php",
+		"/opt/lampp/htdocs/Tasks/style.css",
+		"/opt/lampp/htdocs/Tasks/index.php",
+		"/opt/lampp/htdocs/Ticket_Booking_System/MyPic/index.html",
+		"/opt/lampp/htdocs/Ticket_Booking_System/MyPic/app.css",
+		"/opt/lampp/htdocs/Ticket_Booking_System/MyPic/script.js",
+		"/home/vikash/Downloads/capture/capture/index.html",
+		"/home/vikash/Downloads/capture/capture/about.html",
+		"/home/vikash/Downloads/capture/capture/blog.html",
+		"/home/vikash/Downloads/capture/capture/contact.html",
+		"/home/vikash/Downloads/capture/capture/single.html",
+		"/home/vikash/Downloads/capture/capture/gallery.html",
+		"/media/vikash/Data/PythonLab/TestPythonConnectionWithMydb.py",
+		"/home/vikash/Documents/ES6/reverse.js",
+		"/home/vikash/Documents/bootstrap/jsFirst.html",
+		"/home/vikash/Desktop/reversestring.html",
+		"/home/vikash/Documents/ES6/DOM.HTML",
+		"/home/vikash/Documents/ES6/scripts/scripts.js",
+		"/home/vikash/Documents/ES6/scripts/FindMax.html",
+		"/home/vikash/Desktop/reverseString.ht",
+		"/home/vikash/Documents/bootstrap/script.js",
+		"/home/vikash/Desktop/script.js",
+		"/home/vikash/Desktop/hello.js",
+		"/home/vikash/Documents/bootstrap/window-open.html",
+		"/home/vikash/Documents/bootstrap/jscript.html",
+		"/home/vikash/Documents/bootstrap/icons.html",
+		"/home/vikash/Documents/bootstrap/button.html",
+		"/home/vikash/Documents/bootstrap/Bootstrap-wells.html",
+		"/opt/lampp/htdocs/milanch/script.js",
+		"/opt/lampp/htdocs/milanch/style.css",
+		"/opt/lampp/htdocs/milanch/R1.php",
+		"/opt/lampp/htdocs/milanch/index.php",
+		"/opt/lampp/htdocs/untitled",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample22.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample21.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample20.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample19.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample18.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample17.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample16.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample15.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample14.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample13.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample12.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample11.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample10.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample9.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample8.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample7.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample6.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample5.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample4.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample3.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample1.html",
+		"/media/vikash/Data/MCA-5-SEM/JScript/jsexample2.html",
+		"/home/vikash/Documents/bootstrap/refresh.html",
+		"/home/vikash/Documents/bootstrap/openwindow.html",
+		"/home/vikash/Documents/bootstrap/btn-group.html",
+		"/home/vikash/Desktop/Bootstrap-wells.html",
+		"/home/vikash/Desktop/bootstrap-alert.html",
+		"/home/vikash/Desktop/button.html",
+		"/home/vikash/Desktop/page-header.html",
+		"/home/vikash/Desktop/Image.html",
+		"/home/vikash/Desktop/jumbo.html",
+		"/home/vikash/Documents/bootstrap/boot_cdn.html",
+		"/home/vikash/Documents/bootstrap/Hello.html",
+		"/home/vikash/Hello.html",
+		"/home/vikash/Documents/bootstrap/Test.html",
+		"/home/vikash/Documents/Test.html",
+		"/opt/lampp/htdocs/hack.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "whileloops.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
